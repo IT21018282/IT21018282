@@ -3,8 +3,6 @@
 <img align="right" width=400 alt="coding" src = "https://media.giphy.com/media/hpXdHPfFI5wTABdDx9/giphy.gif" />
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=it21018282&label=Profile%20views&color=0e75b6&style=flat" alt="it21018282" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=it21018282" alt="it21018282" /></a> </p>
-
 - 📫 How to reach me **udunuwaraukc@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
